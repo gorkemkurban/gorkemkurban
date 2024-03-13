@@ -46,4 +46,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gorkemkurban&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemkurban&theme=blueberry&hide_border=false" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemkurban&theme=blueberry&hide_border=false" /></p>
