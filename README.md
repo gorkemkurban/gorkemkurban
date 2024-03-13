@@ -41,8 +41,9 @@
 <a href="https://www.aseprite.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/956px-Logo_Aseprite.svg.png" alt="aseprite" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gorkemkurban&show_icons=true&locale=en&layout=compact" alt="gorkemkurban" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemkurban&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorkemkurban&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorkemkurban&show_icons=true&locale=en" alt="gorkemkurban" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemkurban&" alt="gorkemkurban" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemkurban&theme=blueberry&hide_border=false" /></p>
