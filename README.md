@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **[CesiumJS 3D Heritage Map](https://github.com/ErtanOz/Cesium3DHeritageMap)**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **CesiumJS**
 
 💬 Ask me about **Unity, NodeJS, React... or anything [here](https://github.com/gorkemkurban/gorkemkurban/issues)**
 
