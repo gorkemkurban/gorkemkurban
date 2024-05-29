@@ -55,8 +55,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemkurban&count_private=true&theme=react&hide_border=false" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorkemkurban&theme=react&hide_border=false&include_all_commits=false&count_private=true&rank_icon=github" />
+<img width=425 src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemkurban&count_private=true&theme=react&hide_border=false" />
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=gorkemkurban&theme=react&hide_border=false&include_all_commits=false&count_private=true&rank_icon=github" />
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemkurban&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
