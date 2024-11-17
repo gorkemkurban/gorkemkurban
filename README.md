@@ -61,7 +61,7 @@
 <img width=425 src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemkurban&count_private=true&theme=react&hide_border=false" />
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=gorkemkurban&theme=react&hide_border=false&include_all_commits=false&count_private=true&rank_icon=github" />
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemkurban&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemkurban&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
 <br/><br/>
